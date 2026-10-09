@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python5
 """
 VPN Gate SSTP 节点检测流水线
 ============================
